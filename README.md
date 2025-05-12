@@ -1,4 +1,6 @@
-## Hi there 👋
+Oiee, bem vindo ao meu perfil!🐢
+
+Meu nome é Isabelli Roberta sou estudante do primeiro ano do ensino médio!
 
 <!--
 **IsabelliRoberta/IsabelliRoberta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
